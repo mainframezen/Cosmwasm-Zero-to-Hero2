@@ -27,6 +27,7 @@ impl CwTemplateContract {
         .into())
     }
 
+    /*
     /// Get Custom
     pub fn custom_query<Q, T, CQ>(&self, querier: &Q, val: String) -> StdResult<CustomResponse>
     where
@@ -43,4 +44,5 @@ impl CwTemplateContract {
         let res: CustomResponse = QuerierWrapper::<CQ>::new(querier).query(&query)?;
         Ok(res)
     }
+    */
 }
