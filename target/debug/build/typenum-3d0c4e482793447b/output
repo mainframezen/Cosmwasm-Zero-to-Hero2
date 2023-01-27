@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/jpr/Documents/GitHub/cosmwasm-zero-to-hero/target/debug/build/typenum-3d0c4e482793447b/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/jpr/Documents/GitHub/cosmwasm-zero-to-hero/target/debug/build/typenum-3d0c4e482793447b/out/op.rs
